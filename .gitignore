@@ -1,0 +1,9 @@
+Source/*/bin/
+Source/*/obj/
+Source/*/Bin/
+Source/*/Obj/
+Source/*/Publish/
+Source/*.suo
+Source/*.user
+Source/*.StyleCop.Cache
+Source/*.ReSharper.user
